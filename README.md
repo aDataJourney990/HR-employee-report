@@ -1,4 +1,4 @@
-## HR EMPLOYEE DISTRIBUTION REPORT (Interative dashboard)
+## HR EMPLOYEE DISTRIBUTION REPORT (Interactive dashboard)
 ![image](https://github.com/aDataJourney990/HR-employee-report/assets/88318475/a7e87463-86c3-4428-99a4-ab35c70fdc4c)
 ![image](https://github.com/aDataJourney990/HR-employee-report/assets/88318475/19814583-a0a5-443b-9926-fc3550b599ea)
 
